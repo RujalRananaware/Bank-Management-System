@@ -1,1 +1,2 @@
 # Bank-Management-System
+Bank Management System is a software application designed to efficiently manage and automate core banking operations. It serves as a platform for customers and bank employees to handle day-to-day banking operations such as account creation, money transactions, account modifications, account closing and balance inquiries. By digitalizing these processes, the system ensures accuracy, speed, and convenience in banking services.
